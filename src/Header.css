@@ -1,0 +1,21 @@
+.search-city {
+  text-align: left;
+  line-height: 1.2;
+  top: 20px;
+  left: 10px;
+}
+.enter-city {
+  border-radius: 5px;
+  font-family: "PT Mono", monospace;
+}
+.search-button {
+  border-radius: 5px;
+  color: black;
+  background-color: rgb(144, 155, 171);
+  border-color: rgb(144, 155, 171);
+  font-family: "PT Mono", monospace;
+  opacity: 0.8;
+}
+.search-button:hover {
+  opacity: 0.5;
+}
